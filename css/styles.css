@@ -1,3 +1,23 @@
-/*.result {
+h1, h3 {
+  text-align: center;
+}
+
+
+ul {
+  margin-left: 200px;
+}
+
+form {
+  display: block;
+  margin:auto;
+}
+
+img {
+  display: block;
+  margin: auto;
+
+}
+
+.result {
   display: none;
-}*/
+}
